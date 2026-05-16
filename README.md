@@ -5,13 +5,9 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/dudamellemos" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
   <a href="https://www.instagram.com/dudamellemos/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   <a href="https://open.spotify.com/user/ast8b6519rmmbitdr15z9iz2h?si=8e975730dc1f41d6" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="37" height="25" alt="spotify logo"  />
   </a>
